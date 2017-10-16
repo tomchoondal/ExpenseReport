@@ -2,6 +2,8 @@
 
 @Component({
   selector: 'my-app',
-  template: `<h1>Hello {{name}}</h1>`
+  templateUrl: 'app/app.component.html',
+  styleUrls: ['app/app.component.css'],
 })
-export class AppComponent { name = 'Sample app Tom Jose angular 4'; }
+export class AppComponent 
+{ name = 'Sample app Tom Jose angular 4'; }

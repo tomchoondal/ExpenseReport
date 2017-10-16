@@ -15,7 +15,8 @@ let AppComponent = class AppComponent {
 AppComponent = __decorate([
     core_1.Component({
         selector: 'my-app',
-        template: `<h1>Hello {{name}}</h1>`
+        templateUrl: 'app/app.component.html',
+        styleUrls: ['app/app.component.css'],
     })
 ], AppComponent);
 exports.AppComponent = AppComponent;
