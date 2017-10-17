@@ -2,5 +2,9 @@
   {
     "outputFile": "app/app.component.css",
     "inputFile": "app/app.component.scss"
+  },
+  {
+    "outputFile": "Content/_font-awesome.css",
+    "inputFile": "Content/_font-awesome.scss"
   }
 ]

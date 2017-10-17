@@ -24,6 +24,7 @@ namespace SampleAngular2
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
+                "~/Content/_font-awesome.css",
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
         }

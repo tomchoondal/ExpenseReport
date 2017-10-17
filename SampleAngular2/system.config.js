@@ -2,13 +2,18 @@
     var map = {
         'app': '/app',
         '@angular': '/node_modules/@angular',
+        '@angular/animations': 'node_modules/@angular/animations/bundles/animations.umd.js',
         'angular2-in-memory-web-api': 'node_modules/angular2-in-memory-web-api',
-        'rxjs': '/node_modules/rxjs'
+        'rxjs': '/node_modules/rxjs',
+        'primeng': '/node_modules/primeng'
     },
         packages = {
             'app': { main: './main.js', defaultExtension: 'js' },
             'angular2-in-memory-web-api': { main: './index.js', defaultExtension: 'js' },
-            'rxjs': { defaultExtension: 'js' }
+            'rxjs': { defaultExtension: 'js' },
+            primeng: {
+                defaultExtension: 'js'
+            }
         },
         ngPackageNames = [
             'common',

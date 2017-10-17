@@ -10,6 +10,7 @@ const core_1 = require("@angular/core");
 let AppComponent = class AppComponent {
     constructor() {
         this.name = 'Sample app Tom Jose angular 4';
+        this.value1 = new Date();
     }
 };
 AppComponent = __decorate([

@@ -6,4 +6,7 @@
   styleUrls: ['app/app.component.css'],
 })
 export class AppComponent 
-{ name = 'Sample app Tom Jose angular 4'; }
+{
+    name = 'Sample app Tom Jose angular 4';
+    value1: Date = new Date();
+}

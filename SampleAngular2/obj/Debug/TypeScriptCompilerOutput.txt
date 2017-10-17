@@ -16,15 +16,3 @@ C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngula
 C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\app.module.js.map
 C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\main.js
 C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\main.js.map
-C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\app.component.js
-C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\app.component.js.map
-C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\app.module.js
-C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\app.module.js.map
-C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\main.js
-C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\main.js.map
-C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\app.component.js
-C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\app.component.js.map
-C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\app.module.js
-C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\app.module.js.map
-C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\main.js
-C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\app\main.js.map

@@ -64,3 +64,4 @@ c:\users\tjose\documents\visual studio 2017\Projects\SampleAngular2\SampleAngula
 c:\users\tjose\documents\visual studio 2017\Projects\SampleAngular2\SampleAngular2\bin\Microsoft.AI.Web.xml
 c:\users\tjose\documents\visual studio 2017\Projects\SampleAngular2\SampleAngular2\obj\Debug\SampleAngular2.dll
 c:\users\tjose\documents\visual studio 2017\Projects\SampleAngular2\SampleAngular2\obj\Debug\SampleAngular2.pdb
+C:\Users\tjose\Documents\Visual Studio 2017\Projects\SampleAngular2\SampleAngular2\obj\Debug\SampleAngular2.csprojResolveAssemblyReference.cache
